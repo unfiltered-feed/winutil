@@ -1,8 +1,8 @@
-п»ї{
+{
     "WPFFeaturesdotnet":  {
-                              "Content":  "Р вЂ™РЎРѓР Вµ .Net Framework (2,3,4)",
-                              "Description":  ".NET Framework РІР‚вЂќ Р С—Р В»Р В°РЎвЂљРЎвЂћР С•РЎР‚Р СР В° Р Т‘Р В»РЎРЏ РЎР‚Р В°Р В·РЎР‚Р В°Р В±Р С•РЎвЂљР С”Р С‘ РЎР‚Р В°Р В·Р В»Р С‘РЎвЂЎР Р…РЎвЂ№РЎвЂ¦ РЎвЂљР С‘Р С—Р С•Р Р† Р С—РЎР‚Р С‘Р В»Р С•Р В¶Р ВµР Р…Р С‘Р в„–.",
-                              "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                              "Content":  "Все .Net Framework (2,3,4)",
+                              "Description":  ".NET Framework — платформа для разработки различных типов приложений.",
+                              "category":  "Компоненты Windows",
                               "panel":  "1",
                               "Order":  "a010_",
                               "feature":  [
@@ -15,9 +15,9 @@
                               "link":  "https://winutil.christitus.com/dev/features/features/dotnet"
                           },
     "WPFFeatureshyperv":  {
-                              "Content":  "HyperV Р вЂ™Р С‘РЎР‚РЎвЂљРЎС“Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
-                              "Description":  "Hyper-V РІР‚вЂќ Р С—РЎР‚Р С•Р Т‘РЎС“Р С”РЎвЂљ Р Р†Р С‘РЎР‚РЎвЂљРЎС“Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘Р С‘ Р С•РЎвЂљ Microsoft Р Т‘Р В»РЎРЏ РЎРѓР С•Р В·Р Т‘Р В°Р Р…Р С‘РЎРЏ Р С‘ РЎС“Р С—РЎР‚Р В°Р Р†Р В»Р ВµР Р…Р С‘РЎРЏ Р Р†Р С‘РЎР‚РЎвЂљРЎС“Р В°Р В»РЎРЉР Р…РЎвЂ№Р СР С‘ Р СР В°РЎв‚¬Р С‘Р Р…Р В°Р СР С‘.",
-                              "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                              "Content":  "HyperV Виртуализация",
+                              "Description":  "Hyper-V — продукт виртуализации от Microsoft для создания и управления виртуальными машинами.",
+                              "category":  "Компоненты Windows",
                               "panel":  "1",
                               "Order":  "a011_",
                               "feature":  [
@@ -36,9 +36,9 @@
                               "link":  "https://winutil.christitus.com/dev/features/features/hyperv"
                           },
     "WPFFeatureslegacymedia":  {
-                                   "Content":  "Р Р€РЎРѓРЎвЂљР В°РЎР‚Р ВµР Р†РЎв‚¬Р С‘Р Вµ Р СР ВµР Т‘Р С‘Р В°-Р С”Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ (WMP, DirectPlay)",
-                                   "Description":  "Р вЂ™Р С”Р В»РЎР‹РЎвЂЎР В°Р ВµРЎвЂљ РЎС“РЎРѓРЎвЂљР В°РЎР‚Р ВµР Р†РЎв‚¬Р С‘Р Вµ Р С—РЎР‚Р С•Р С–РЎР‚Р В°Р СР СРЎвЂ№ Р С‘Р В· Р С—РЎР‚Р ВµР Т‘РЎвЂ№Р Т‘РЎС“РЎвЂ°Р С‘РЎвЂ¦ Р Р†Р ВµРЎР‚РЎРѓР С‘Р в„– Windows.",
-                                   "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                                   "Content":  "Устаревшие медиа-компоненты (WMP, DirectPlay)",
+                                   "Description":  "Включает устаревшие программы из предыдущих версий Windows.",
+                                   "category":  "Компоненты Windows",
                                    "panel":  "1",
                                    "Order":  "a012_",
                                    "feature":  [
@@ -53,9 +53,9 @@
                                    "link":  "https://winutil.christitus.com/dev/features/features/legacymedia"
                                },
     "WPFFeaturewsl":  {
-                          "Content":  "Р СџР С•Р Т‘РЎРѓР С‘РЎРѓРЎвЂљР ВµР СР В° Windows Р Т‘Р В»РЎРЏ Linux",
-                          "Description":  "WSL Р С—Р С•Р В·Р Р†Р С•Р В»РЎРЏР ВµРЎвЂљ Р В·Р В°Р С—РЎС“РЎРѓР С”Р В°РЎвЂљРЎРЉ Linux-Р С—РЎР‚Р С•Р С–РЎР‚Р В°Р СР СРЎвЂ№ Р Р…Р В°РЎвЂљР С‘Р Р†Р Р…Р С• Р Р† Windows Р В±Р ВµР В· Р Р†Р С‘РЎР‚РЎвЂљРЎС“Р В°Р В»РЎРЉР Р…Р С•Р в„– Р СР В°РЎв‚¬Р С‘Р Р…РЎвЂ№.",
-                          "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                          "Content":  "Подсистема Windows для Linux",
+                          "Description":  "WSL позволяет запускать Linux-программы нативно в Windows без виртуальной машины.",
+                          "category":  "Компоненты Windows",
                           "panel":  "1",
                           "Order":  "a020_",
                           "feature":  [
@@ -68,9 +68,9 @@
                           "link":  "https://winutil.christitus.com/dev/features/features/wsl"
                       },
     "WPFFeaturenfs":  {
-                          "Content":  "NFS - Р РЋР ВµРЎвЂљР ВµР Р†Р В°РЎРЏ РЎвЂћР В°Р в„–Р В»Р С•Р Р†Р В°РЎРЏ РЎРѓР С‘РЎРѓРЎвЂљР ВµР СР В°",
-                          "Description":  "Network File System (NFS) РІР‚вЂќ Р СР ВµРЎвЂ¦Р В°Р Р…Р С‘Р В·Р С РЎвЂ¦РЎР‚Р В°Р Р…Р ВµР Р…Р С‘РЎРЏ РЎвЂћР В°Р в„–Р В»Р С•Р Р† Р Р† РЎРѓР ВµРЎвЂљР С‘.",
-                          "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                          "Content":  "NFS - Сетевая файловая система",
+                          "Description":  "Network File System (NFS) — механизм хранения файлов в сети.",
+                          "category":  "Компоненты Windows",
                           "panel":  "1",
                           "Order":  "a014_",
                           "feature":  [
@@ -88,9 +88,9 @@
                           "link":  "https://winutil.christitus.com/dev/features/features/nfs"
                       },
     "WPFFeatureRegBackup":  {
-                                "Content":  "Р вЂ™Р С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ Р ВµР В¶Р ВµР Т‘Р Р…Р ВµР Р†Р Р…Р С•Р Вµ РЎР‚Р ВµР В·Р ВµРЎР‚Р Р†Р Р…Р С•Р Вµ Р С”Р С•Р С—Р С‘РЎР‚Р С•Р Р†Р В°Р Р…Р С‘Р Вµ РЎР‚Р ВµР ВµРЎРѓРЎвЂљРЎР‚Р В°",
-                                "Description":  "Р вЂ™Р С”Р В»РЎР‹РЎвЂЎР В°Р ВµРЎвЂљ Р ВµР В¶Р ВµР Т‘Р Р…Р ВµР Р†Р Р…Р С•Р Вµ РЎР‚Р ВµР В·Р ВµРЎР‚Р Р†Р Р…Р С•Р Вµ Р С”Р С•Р С—Р С‘РЎР‚Р С•Р Р†Р В°Р Р…Р С‘Р Вµ РЎР‚Р ВµР ВµРЎРѓРЎвЂљРЎР‚Р В° (Р В±РЎвЂ№Р В»Р С• Р С•РЎвЂљР С”Р В»РЎР‹РЎвЂЎР ВµР Р…Р С• Microsoft Р Р† Windows 10 1803).",
-                                "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                                "Content":  "Включить ежедневное резервное копирование реестра",
+                                "Description":  "Включает ежедневное резервное копирование реестра (было отключено Microsoft в Windows 10 1803).",
+                                "category":  "Компоненты Windows",
                                 "panel":  "1",
                                 "Order":  "a017_",
                                 "feature":  [
@@ -104,7 +104,7 @@
     "WPFFeatureEnableLegacyRecovery":  {
                                            "Content":  "Enable Legacy F8 Boot Recovery",
                                            "Description":  "Enables Advanced Boot Options screen that lets you start Windows in advanced troubleshooting modes.",
-                                           "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                                           "category":  "Компоненты Windows",
                                            "panel":  "1",
                                            "Order":  "a018_",
                                            "feature":  [
@@ -118,7 +118,7 @@
     "WPFFeatureDisableLegacyRecovery":  {
                                             "Content":  "Disable Legacy F8 Boot Recovery",
                                             "Description":  "Disables Advanced Boot Options screen that lets you start Windows in advanced troubleshooting modes.",
-                                            "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                                            "category":  "Компоненты Windows",
                                             "panel":  "1",
                                             "Order":  "a019_",
                                             "feature":  [
@@ -130,8 +130,8 @@
                                             "link":  "https://winutil.christitus.com/dev/features/features/disablelegacyrecovery"
                                         },
     "WPFFeaturesSandbox":  {
-                               "Content":  "Windows Sandbox",
-                               "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                               "Content":  "Песочница Windows",
+                               "category":  "Компоненты Windows",
                                "panel":  "1",
                                "Order":  "a021_",
                                "Description":  "Windows Sandbox is a lightweight virtual machine that provides a temporary desktop environment to safely run applications and programs in isolation.",
@@ -139,7 +139,7 @@
                            },
     "WPFFeatureInstall":  {
                               "Content":  "Install Features",
-                              "category":  "Р С™Р С•Р СР С—Р С•Р Р…Р ВµР Р…РЎвЂљРЎвЂ№ Windows",
+                              "category":  "Компоненты Windows",
                               "panel":  "1",
                               "Order":  "a060_",
                               "Type":  "Button",
@@ -156,7 +156,7 @@
                               "link":  "https://winutil.christitus.com/dev/features/fixes/autologin"
                           },
     "WPFFixesUpdate":  {
-                           "Content":  "Reset Windows Update",
+                           "Content":  "Сбросить Центр обновления",
                            "category":  "Fixes",
                            "panel":  "1",
                            "Order":  "a041_",

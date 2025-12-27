@@ -1,8 +1,8 @@
-п»ї{
+{
     "WPFTweaksActivity":  {
-                              "Content":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ Р С‘РЎРѓРЎвЂљР С•РЎР‚Р С‘РЎР‹ Р В°Р С”РЎвЂљР С‘Р Р†Р Р…Р С•РЎРѓРЎвЂљР С‘",
-                              "Description":  "Р Р€Р Т‘Р В°Р В»РЎРЏР ВµРЎвЂљ Р С‘РЎРѓРЎвЂљР С•РЎР‚Р С‘РЎР‹ Р Т‘Р С•Р С”РЎС“Р СР ВµР Р…РЎвЂљР С•Р Р†, Р В±РЎС“РЎвЂћР ВµРЎР‚ Р С•Р В±Р СР ВµР Р…Р В° Р С‘ Р С‘РЎРѓРЎвЂљР С•РЎР‚Р С‘РЎР‹ Р В·Р В°Р С—РЎС“РЎРѓР С”Р В°.",
-                              "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                              "Content":  "Отключить историю активности",
+                              "Description":  "Удаляет историю документов, буфер обмена и историю запуска.",
+                              "category":  "Основные настройки",
                               "panel":  "1",
                               "Order":  "a005_",
                               "registry":  [
@@ -31,9 +31,9 @@
                               "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/ah"
                           },
     "WPFTweaksHiber":  {
-                           "Content":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ Р С–Р С‘Р В±Р ВµРЎР‚Р Р…Р В°РЎвЂ Р С‘РЎР‹",
-                           "Description":  "Р вЂњР С‘Р В±Р ВµРЎР‚Р Р…Р В°РЎвЂ Р С‘РЎРЏ Р С—РЎР‚Р ВµР Т‘Р Р…Р В°Р В·Р Р…Р В°РЎвЂЎР ВµР Р…Р В° Р Т‘Р В»РЎРЏ Р Р…Р С•РЎС“РЎвЂљР В±РЎС“Р С”Р С•Р Р† РІР‚вЂќ РЎРѓР С•РЎвЂ¦РЎР‚Р В°Р Р…РЎРЏР ВµРЎвЂљ РЎРѓР С•Р Т‘Р ВµРЎР‚Р В¶Р С‘Р СР С•Р Вµ Р С—Р В°Р СРЎРЏРЎвЂљР С‘ Р С—Р ВµРЎР‚Р ВµР Т‘ Р Р†РЎвЂ№Р С”Р В»РЎР‹РЎвЂЎР ВµР Р…Р С‘Р ВµР С. Р СњР В° Р Т‘Р ВµРЎРѓР С”РЎвЂљР С•Р С—Р В°РЎвЂ¦ Р С•Р В±РЎвЂ№РЎвЂЎР Р…Р С• Р Р…Р Вµ Р Р…РЎС“Р В¶Р Р…Р В°.",
-                           "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                           "Content":  "Отключить гибернацию",
+                           "Description":  "Гибернация предназначена для ноутбуков — сохраняет содержимое памяти перед выключением. На десктопах обычно не нужна.",
+                           "category":  "Основные настройки",
                            "panel":  "1",
                            "Order":  "a005_",
                            "registry":  [
@@ -61,9 +61,9 @@
                            "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/hiber"
                        },
     "WPFTweaksLaptopHibernation":  {
-                                       "Content":  "Р вЂ™Р С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ Р С–Р С‘Р В±Р ВµРЎР‚Р Р…Р В°РЎвЂ Р С‘РЎР‹ Р С—Р С• РЎС“Р СР С•Р В»РЎвЂЎР В°Р Р…Р С‘РЎР‹ (Р Т‘Р В»РЎРЏ Р Р…Р С•РЎС“РЎвЂљР В±РЎС“Р С”Р С•Р Р†)",
-                                       "Description":  "Р вЂР С•Р В»РЎРЉРЎв‚¬Р С‘Р Р…РЎРѓРЎвЂљР Р†Р С• РЎРѓР С•Р Р†РЎР‚Р ВµР СР ВµР Р…Р Р…РЎвЂ№РЎвЂ¦ Р Р…Р С•РЎС“РЎвЂљР В±РЎС“Р С”Р С•Р Р† Р С‘РЎРѓР С—Р С•Р В»РЎРЉР В·РЎС“РЎР‹РЎвЂљ РЎР‚Р ВµР В¶Р С‘Р С Р С•Р В¶Р С‘Р Т‘Р В°Р Р…Р С‘РЎРЏ, Р С”Р С•РЎвЂљР С•РЎР‚РЎвЂ№Р в„– РЎР‚Р В°Р В·РЎР‚РЎРЏР В¶Р В°Р ВµРЎвЂљ Р В±Р В°РЎвЂљР В°РЎР‚Р ВµРЎР‹. Р В­РЎвЂљР В° Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р В° Р Р†Р С”Р В»РЎР‹РЎвЂЎР В°Р ВµРЎвЂљ Р С–Р С‘Р В±Р ВµРЎР‚Р Р…Р В°РЎвЂ Р С‘РЎР‹ Р С—Р С• РЎС“Р СР С•Р В»РЎвЂЎР В°Р Р…Р С‘РЎР‹.",
-                                       "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                       "Content":  "Включить гибернацию по умолчанию (для ноутбуков)",
+                                       "Description":  "Большинство современных ноутбуков используют режим ожидания, который разряжает батарею. Эта настройка включает гибернацию по умолчанию.",
+                                       "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                        "panel":  "1",
                                        "Order":  "a027_",
                                        "registry":  [
@@ -91,9 +91,9 @@
                                        "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/laptophibernation"
                                    },
     "WPFTweaksLocation":  {
-                              "Content":  "Disable Location Tracking",
+                              "Content":  "Отключить отслеживание местоположения",
                               "Description":  "Disables Location Tracking...DUH!",
-                              "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                              "category":  "Основные настройки",
                               "panel":  "1",
                               "Order":  "a005_",
                               "registry":  [
@@ -129,9 +129,9 @@
                               "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/loc"
                           },
     "WPFTweaksServices":  {
-                              "Content":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ Р Р…Р ВµР Р…РЎС“Р В¶Р Р…РЎвЂ№Р Вµ РЎРѓР В»РЎС“Р В¶Р В±РЎвЂ№",
-                              "Description":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР В°Р ВµРЎвЂљ РЎРѓР В»РЎС“Р В¶Р В±РЎвЂ№ Windows, Р С”Р С•РЎвЂљР С•РЎР‚РЎвЂ№Р Вµ Р С•Р В±РЎвЂ№РЎвЂЎР Р…Р С• Р Р…Р Вµ Р С‘РЎРѓР С—Р С•Р В»РЎРЉР В·РЎС“РЎР‹РЎвЂљРЎРѓРЎРЏ.",
-                              "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                              "Content":  "Отключить ненужные службы",
+                              "Description":  "Отключает службы Windows, которые обычно не используются.",
+                              "category":  "Основные настройки",
                               "panel":  "1",
                               "Order":  "a014_",
                               "service":  [
@@ -1111,7 +1111,7 @@
     "WPFTweaksBraveDebloat":  {
                                   "Content":  "Brave Debloat",
                                   "Description":  "Disables various annoyances like Brave Rewards,Leo AI,Crypto Wallet and VPN",
-                                  "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                  "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                   "panel":  "1",
                                   "Order":  "a022_",
                                   "registry":  [
@@ -1148,7 +1148,7 @@
     "WPFTweaksEdgeDebloat":  {
                                  "Content":  "Edge Debloat",
                                  "Description":  "Disables various telemetry options, popups, and other annoyances in Edge.",
-                                 "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                 "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                  "panel":  "1",
                                  "Order":  "a022_",
                                  "registry":  [
@@ -1263,7 +1263,7 @@
     "WPFTweaksConsumerFeatures":  {
                                       "Content":  "Disable ConsumerFeatures",
                                       "Description":  "Windows will not automatically install any games, third-party apps, or application links from the Windows Store for the signed-in user. Some default Apps will be inaccessible (eg. Phone Link)",
-                                      "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                      "category":  "Основные настройки",
                                       "panel":  "1",
                                       "Order":  "a003_",
                                       "registry":  [
@@ -1278,9 +1278,9 @@
                                       "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/consumerfeatures"
                                   },
     "WPFTweaksTele":  {
-                          "Content":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР С‘РЎвЂљРЎРЉ РЎвЂљР ВµР В»Р ВµР СР ВµРЎвЂљРЎР‚Р С‘РЎР‹",
-                          "Description":  "Р С›РЎвЂљР С”Р В»РЎР‹РЎвЂЎР В°Р ВµРЎвЂљ Р С•РЎвЂљР С—РЎР‚Р В°Р Р†Р С”РЎС“ Р Т‘Р В°Р Р…Р Р…РЎвЂ№РЎвЂ¦ Р С•Р В± Р С‘РЎРѓР С—Р С•Р В»РЎРЉР В·Р С•Р Р†Р В°Р Р…Р С‘Р С‘ Windows Р Р† Microsoft.",
-                          "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                          "Content":  "Отключить телеметрию",
+                          "Description":  "Отключает отправку данных об использовании Windows в Microsoft.",
+                          "category":  "Основные настройки",
                           "panel":  "1",
                           "Order":  "a003_",
                           "ScheduledTask":  [
@@ -1597,7 +1597,7 @@
     "WPFTweaksDisableEdge":  {
                                  "Content":  "Disable Edge",
                                  "Description":  "Prevent msedge.exe from running with explorer policies.",
-                                 "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                 "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                  "panel":  "1",
                                  "Order":  "a023_",
                                  "registry":  [
@@ -1621,7 +1621,7 @@
     "WPFTweaksMakeEdgeUninstallable":  {
                                            "Content":  "Make Edge Uninstallable via settings",
                                            "Description":  "Makes it so you can uninstall edge via settings \u003e installed apps",
-                                           "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                           "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                            "panel":  "1",
                                            "Order":  "a023_",
                                            "registry":  [
@@ -1644,7 +1644,7 @@
     "WPFTweaksUTC":  {
                          "Content":  "Set Time to UTC (Dual Boot)",
                          "Description":  "Essential for computers that are dual booting. Fixes the time sync with Linux Systems.",
-                         "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                         "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                          "panel":  "1",
                          "Order":  "a027_",
                          "registry":  [
@@ -1661,7 +1661,7 @@
     "WPFTweaksRemoveHome":  {
                                 "Content":  "Remove Home from Explorer",
                                 "Description":  "Removes the Home from Explorer and sets This PC as default",
-                                "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                 "panel":  "1",
                                 "Order":  "a029_",
                                 "InvokeScript":  [
@@ -1675,7 +1675,7 @@
     "WPFTweaksRemoveGallery":  {
                                    "Content":  "Remove Gallery from explorer",
                                    "Description":  "Removes the Gallery from Explorer and sets This PC as default",
-                                   "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                   "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                    "panel":  "1",
                                    "Order":  "a030_",
                                    "InvokeScript":  [
@@ -1689,7 +1689,7 @@
     "WPFTweaksDisplay":  {
                              "Content":  "Set Display for Performance",
                              "Description":  "Sets the system preferences to performance. You can do this manually with sysdm.cpl as well.",
-                             "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                             "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                              "panel":  "1",
                              "Order":  "a027_",
                              "registry":  [
@@ -1796,7 +1796,7 @@
     "WPFTweaksDeBloat":  {
                              "Content":  "Remove ALL MS Store Apps - NOT RECOMMENDED",
                              "Description":  "USE WITH CAUTION!!!!! This will remove ALL Microsoft store apps other than the essentials to make winget work. Games installed by MS Store ARE INCLUDED!",
-                             "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                             "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                              "panel":  "1",
                              "Order":  "a028_",
                              "appx":  [
@@ -1872,9 +1872,9 @@
                              "link":  "https://winutil.christitus.com/dev/tweaks/z--advanced-tweaks---caution/debloat"
                          },
     "WPFTweaksRestorePoint":  {
-                                  "Content":  "Create Restore Point",
+                                  "Content":  "Создать точку восстановления",
                                   "Description":  "Creates a restore point at runtime in case a revert is needed from WinUtil modifications",
-                                  "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                  "category":  "Основные настройки",
                                   "panel":  "1",
                                   "Checked":  "False",
                                   "Order":  "a001_",
@@ -1886,7 +1886,7 @@
     "WPFTweaksEndTaskOnTaskbar":  {
                                       "Content":  "Enable End Task With Right Click",
                                       "Description":  "Enables option to end task when right clicking a program in the taskbar",
-                                      "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                      "category":  "Основные настройки",
                                       "panel":  "1",
                                       "Order":  "a006_",
                                       "registry":  [
@@ -1903,7 +1903,7 @@
     "WPFTweaksPowershell7":  {
                                  "Content":  "Change Windows Terminal default: PowerShell 5 -\u003e PowerShell 7",
                                  "Description":  "This will edit the config file of the Windows Terminal replacing PowerShell 5 with PowerShell 7 and installing PS7 if necessary",
-                                 "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                 "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                  "panel":  "1",
                                  "Order":  "a022_",
                                  "InvokeScript":  [
@@ -1917,7 +1917,7 @@
     "WPFTweaksPowershell7Tele":  {
                                      "Content":  "Disable Powershell 7 Telemetry",
                                      "Description":  "This will create an Environment Variable called \u0027POWERSHELL_TELEMETRY_OPTOUT\u0027 with a value of \u00271\u0027 which will tell Powershell 7 to not send Telemetry Data.",
-                                     "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                     "category":  "Основные настройки",
                                      "panel":  "1",
                                      "Order":  "a009_",
                                      "InvokeScript":  [
@@ -1929,9 +1929,9 @@
                                      "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/powershell7tele"
                                  },
     "WPFTweaksStorage":  {
-                             "Content":  "Disable Storage Sense",
+                             "Content":  "Отключить контроль памяти",
                              "Description":  "Storage Sense deletes temp files automatically.",
-                             "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                             "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                              "panel":  "1",
                              "Order":  "a025_",
                              "registry":  [
@@ -1948,7 +1948,7 @@
     "WPFTweaksRemoveCopilot":  {
                                    "Content":  "Disable Microsoft Copilot",
                                    "Description":  "Disables MS Copilot AI built into Windows since 23H2.",
-                                   "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                   "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                    "panel":  "1",
                                    "Order":  "a025_",
                                    "registry":  [
@@ -2020,7 +2020,7 @@
     "WPFTweaksWPBT":  {
                           "Content":  "Disable Windows Platform Binary Table (WPBT)",
                           "Description":  "If enabled then allows your computer vendor to execute a program each time it boots. It enables computer vendors to force install anti-theft software, software drivers, or a software program conveniently. This could also be a security risk.",
-                          "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                          "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                           "panel":  "1",
                           "Order":  "a027_",
                           "registry":  [
@@ -2036,7 +2036,7 @@
     "WPFTweaksRazerBlock":  {
                                 "Content":  "Block Razer Software Installs",
                                 "Description":  "Blocks ALL Razer Software installations. The hardware works fine without any software. WARNING: this will also block all Windows third-party driver installations.",
-                                "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                 "panel":  "1",
                                 "Order":  "a021_",
                                 "registry":  [
@@ -2066,7 +2066,7 @@
     "WPFTweaksDisableNotifications":  {
                                           "Content":  "Disable Notification Tray/Calendar",
                                           "Description":  "Disables all Notifications INCLUDING Calendar",
-                                          "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                          "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                           "panel":  "1",
                                           "Order":  "a026_",
                                           "registry":  [
@@ -2090,7 +2090,7 @@
     "WPFTweaksBlockAdobeNet":  {
                                    "Content":  "Adobe Network Block",
                                    "Description":  "Reduce user interruptions by selectively blocking connections to Adobe\u0027s activation and telemetry servers. Credit: Ruddernation-Designs",
-                                   "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                   "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                    "panel":  "1",
                                    "Order":  "a021_",
                                    "InvokeScript":  [
@@ -2104,7 +2104,7 @@
     "WPFTweaksRightClickMenu":  {
                                     "Content":  "Set Classic Right-Click Menu ",
                                     "Description":  "Great Windows 11 tweak to bring back good context menus when right clicking things in explorer.",
-                                    "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                    "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                     "panel":  "1",
                                     "Order":  "a027_",
                                     "InvokeScript":  [
@@ -2116,9 +2116,9 @@
                                     "link":  "https://winutil.christitus.com/dev/tweaks/z--advanced-tweaks---caution/rightclickmenu"
                                 },
     "WPFTweaksDiskCleanup":  {
-                                 "Content":  "Р вЂ”Р В°Р С—РЎС“РЎРѓРЎвЂљР С‘РЎвЂљРЎРЉ Р С•РЎвЂЎР С‘РЎРѓРЎвЂљР С”РЎС“ Р Т‘Р С‘РЎРѓР С”Р В°",
-                                 "Description":  "Р Р€Р Т‘Р В°Р В»РЎРЏР ВµРЎвЂљ Р Р†РЎР‚Р ВµР СР ВµР Р…Р Р…РЎвЂ№Р Вµ РЎвЂћР В°Р в„–Р В»РЎвЂ№ Р С‘ Р С•РЎРѓР Р†Р С•Р В±Р С•Р В¶Р Т‘Р В°Р ВµРЎвЂљ Р СР ВµРЎРѓРЎвЂљР С• Р Р…Р В° Р Т‘Р С‘РЎРѓР С”Р Вµ.",
-                                 "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                 "Content":  "Запустить очистку диска",
+                                 "Description":  "Удаляет временные файлы и освобождает место на диске.",
+                                 "category":  "Основные настройки",
                                  "panel":  "1",
                                  "Order":  "a009_",
                                  "InvokeScript":  [
@@ -2127,9 +2127,9 @@
                                  "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/diskcleanup"
                              },
     "WPFTweaksDeleteTempFiles":  {
-                                     "Content":  "Р Р€Р Т‘Р В°Р В»Р С‘РЎвЂљРЎРЉ Р Р†РЎР‚Р ВµР СР ВµР Р…Р Р…РЎвЂ№Р Вµ РЎвЂћР В°Р в„–Р В»РЎвЂ№",
-                                     "Description":  "Р Р€Р Т‘Р В°Р В»РЎРЏР ВµРЎвЂљ РЎвЂћР В°Р в„–Р В»РЎвЂ№ Р С‘Р В· Р С—Р В°Р С—Р С•Р С” Temp.",
-                                     "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                     "Content":  "Удалить временные файлы",
+                                     "Description":  "Удаляет файлы из папок Temp.",
+                                     "category":  "Основные настройки",
                                      "panel":  "1",
                                      "Order":  "a002_",
                                      "InvokeScript":  [
@@ -2138,9 +2138,9 @@
                                      "link":  "https://winutil.christitus.com/dev/tweaks/essential-tweaks/deletetempfiles"
                                  },
     "WPFTweaksDVR":  {
-                         "Content":  "Disable GameDVR",
+                         "Content":  "Отключить GameDVR",
                          "Description":  "GameDVR is a Windows App that is a dependency for some Store Games. I\u0027ve never met someone that likes it, but it\u0027s there for the XBOX crowd.",
-                         "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                         "category":  "Основные настройки",
                          "panel":  "1",
                          "Order":  "a005_",
                          "registry":  [
@@ -2185,7 +2185,7 @@
     "WPFTweaksIPv46":  {
                            "Content":  "Prefer IPv4 over IPv6",
                            "Description":  "To set the IPv4 preference can have latency and security benefits on private networks where IPv6 is not configured.",
-                           "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                           "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                            "panel":  "1",
                            "Order":  "a024_",
                            "registry":  [
@@ -2202,7 +2202,7 @@
     "WPFTweaksTeredo":  {
                             "Content":  "Disable Teredo",
                             "Description":  "Teredo network tunneling is a ipv6 feature that can cause additional latency, but may cause problems with some games",
-                            "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                            "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                             "panel":  "1",
                             "Order":  "a024_",
                             "registry":  [
@@ -2223,9 +2223,9 @@
                             "link":  "https://winutil.christitus.com/dev/tweaks/z--advanced-tweaks---caution/teredo"
                         },
     "WPFTweaksDisableIPv6":  {
-                                 "Content":  "Disable IPv6",
+                                 "Content":  "Отключить IPv6",
                                  "Description":  "Disables IPv6.",
-                                 "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                 "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                  "panel":  "1",
                                  "Order":  "a024_",
                                  "registry":  [
@@ -2248,7 +2248,7 @@
     "WPFTweaksDisableBGapps":  {
                                    "Content":  "Disable Background Apps",
                                    "Description":  "Disables all Microsoft Store apps from running in the background, which has to be done individually since Win11",
-                                   "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                   "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                    "panel":  "1",
                                    "Order":  "a024_",
                                    "registry":  [
@@ -2265,7 +2265,7 @@
     "WPFTweaksDisableFSO":  {
                                 "Content":  "Disable Fullscreen Optimizations",
                                 "Description":  "Disables FSO in all applications. NOTE: This will disable Color Management in Exclusive Fullscreen",
-                                "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                                "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                                 "panel":  "1",
                                 "Order":  "a024_",
                                 "registry":  [
@@ -2282,7 +2282,7 @@
     "WPFToggleDarkMode":  {
                               "Content":  "Dark Theme for Windows",
                               "Description":  "Enable/Disable Dark Mode.",
-                              "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                              "category":  "Персонализация",
                               "panel":  "2",
                               "Order":  "a100_",
                               "Type":  "Toggle",
@@ -2315,7 +2315,7 @@
     "WPFToggleBingSearch":  {
                                 "Content":  "Bing Search in Start Menu",
                                 "Description":  "If enable then includes web search results from Bing in your Start Menu search.",
-                                "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                "category":  "Персонализация",
                                 "panel":  "2",
                                 "Order":  "a101_",
                                 "Type":  "Toggle",
@@ -2334,7 +2334,7 @@
     "WPFToggleNumLock":  {
                              "Content":  "NumLock on Startup",
                              "Description":  "Toggle the Num Lock key state when your computer starts.",
-                             "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                             "category":  "Персонализация",
                              "panel":  "2",
                              "Order":  "a102_",
                              "Type":  "Toggle",
@@ -2361,7 +2361,7 @@
     "WPFToggleVerboseLogon":  {
                                   "Content":  "Verbose Messages During Logon",
                                   "Description":  "Show detailed messages during the login process for troubleshooting and diagnostics.",
-                                  "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                  "category":  "Персонализация",
                                   "panel":  "2",
                                   "Order":  "a103_",
                                   "Type":  "Toggle",
@@ -2380,7 +2380,7 @@
     "WPFToggleStartMenuRecommendations":  {
                                               "Content":  "Recommendations in Start Menu",
                                               "Description":  "If disabled then you will not see recommendations in the Start Menu.",
-                                              "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                              "category":  "Персонализация",
                                               "panel":  "2",
                                               "Order":  "a104_",
                                               "Type":  "Toggle",
@@ -2421,7 +2421,7 @@
     "WPFToggleHideSettingsHome":  {
                                       "Content":  "Remove Settings Home Page",
                                       "Description":  "Removes the Home page in the Windows Settings app.",
-                                      "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                      "category":  "Персонализация",
                                       "panel":  "2",
                                       "Order":  "a105_",
                                       "Type":  "Toggle",
@@ -2439,7 +2439,7 @@
     "WPFToggleSnapWindow":  {
                                 "Content":  "Snap Window",
                                 "Description":  "If enabled you can align windows by dragging them. | Relogin Required",
-                                "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                "category":  "Персонализация",
                                 "panel":  "2",
                                 "Order":  "a106_",
                                 "Type":  "Toggle",
@@ -2458,7 +2458,7 @@
     "WPFToggleSnapFlyout":  {
                                 "Content":  "Snap Assist Flyout",
                                 "Description":  "If disabled then Snap preview is disabled when maximize button is hovered.",
-                                "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                "category":  "Персонализация",
                                 "panel":  "2",
                                 "Order":  "a107_",
                                 "Type":  "Toggle",
@@ -2483,7 +2483,7 @@
     "WPFToggleSnapSuggestion":  {
                                     "Content":  "Snap Assist Suggestion",
                                     "Description":  "If enabled then you will get suggestions to snap other applications in the left over spaces.",
-                                    "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                    "category":  "Персонализация",
                                     "panel":  "2",
                                     "Order":  "a108_",
                                     "Type":  "Toggle",
@@ -2508,7 +2508,7 @@
     "WPFToggleMouseAcceleration":  {
                                        "Content":  "Mouse Acceleration",
                                        "Description":  "If Enabled then Cursor movement is affected by the speed of your physical mouse movements.",
-                                       "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                       "category":  "Персонализация",
                                        "panel":  "2",
                                        "Order":  "a109_",
                                        "Type":  "Toggle",
@@ -2543,7 +2543,7 @@
     "WPFToggleStickyKeys":  {
                                 "Content":  "Sticky Keys",
                                 "Description":  "If Enabled then Sticky Keys is activated - Sticky keys is an accessibility feature of some graphical user interfaces which assists users who have physical disabilities or help users reduce repetitive strain injury.",
-                                "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                "category":  "Персонализация",
                                 "panel":  "2",
                                 "Order":  "a110_",
                                 "Type":  "Toggle",
@@ -2562,7 +2562,7 @@
     "WPFToggleNewOutlook":  {
                                 "Content":  "New Outlook",
                                 "Description":  "If disabled it removes the toggle for new Outlook, disables the new Outlook migration and makes sure the Outlook Application actually uses the old Outlook.",
-                                "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                "category":  "Персонализация",
                                 "panel":  "2",
                                 "Order":  "a112_",
                                 "Type":  "Toggle",
@@ -2605,7 +2605,7 @@
     "WPFToggleMultiplaneOverlay":  {
                                        "Content":  "Disable Multiplane Overlay",
                                        "Description":  "Disable the Multiplane Overlay which can sometimes cause issues with Graphics Cards.",
-                                       "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                       "category":  "Персонализация",
                                        "panel":  "2",
                                        "Order":  "a111_",
                                        "Type":  "Toggle",
@@ -2622,9 +2622,9 @@
                                        "link":  "https://winutil.christitus.com/dev/tweaks/customize-preferences/multplaneoverlay"
                                    },
     "WPFToggleHiddenFiles":  {
-                                 "Content":  "Show Hidden Files",
+                                 "Content":  "Показывать скрытые файлы",
                                  "Description":  "If Enabled then Hidden Files will be shown.",
-                                 "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                 "category":  "Персонализация",
                                  "panel":  "2",
                                  "Order":  "a200_",
                                  "Type":  "Toggle",
@@ -2647,9 +2647,9 @@
                                  "link":  "https://winutil.christitus.com/dev/tweaks/customize-preferences/hiddenfiles"
                              },
     "WPFToggleShowExt":  {
-                             "Content":  "Show File Extensions",
+                             "Content":  "Показывать расширения файлов",
                              "Description":  "If enabled then File extensions (e.g., .txt, .jpg) are visible.",
-                             "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                             "category":  "Персонализация",
                              "panel":  "2",
                              "Order":  "a201_",
                              "Type":  "Toggle",
@@ -2674,7 +2674,7 @@
     "WPFToggleTaskbarSearch":  {
                                    "Content":  "Search Button in Taskbar",
                                    "Description":  "If Enabled Search Button will be on the taskbar.",
-                                   "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                   "category":  "Персонализация",
                                    "panel":  "2",
                                    "Order":  "a202_",
                                    "Type":  "Toggle",
@@ -2693,7 +2693,7 @@
     "WPFToggleTaskView":  {
                               "Content":  "Task View Button in Taskbar",
                               "Description":  "If Enabled then Task View Button in Taskbar will be shown.",
-                              "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                              "category":  "Персонализация",
                               "panel":  "2",
                               "Order":  "a203_",
                               "Type":  "Toggle",
@@ -2712,7 +2712,7 @@
     "WPFToggleTaskbarWidgets":  {
                                     "Content":  "Widgets Button in Taskbar",
                                     "Description":  "If Enabled then Widgets Button in Taskbar will be shown.",
-                                    "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                    "category":  "Персонализация",
                                     "panel":  "2",
                                     "Order":  "a204_",
                                     "Type":  "Toggle",
@@ -2731,7 +2731,7 @@
     "WPFToggleTaskbarAlignment":  {
                                       "Content":  "Center Taskbar Items",
                                       "Description":  "[Windows 11] If Enabled then the Taskbar Items will be shown on the Center, otherwise the Taskbar Items will be shown on the Left.",
-                                      "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                      "category":  "Персонализация",
                                       "panel":  "2",
                                       "Order":  "a204_",
                                       "Type":  "Toggle",
@@ -2750,7 +2750,7 @@
     "WPFToggleDetailedBSoD":  {
                                   "Content":  "Detailed BSoD",
                                   "Description":  "If Enabled then you will see a detailed Blue Screen of Death (BSOD) with more information.",
-                                  "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                  "category":  "Персонализация",
                                   "panel":  "2",
                                   "Order":  "a205_",
                                   "Type":  "Toggle",
@@ -2777,7 +2777,7 @@
     "WPFToggleS3Sleep":  {
                              "Content":  "S3 Sleep",
                              "Description":  "Toggles between Modern Standby and S3 sleep.",
-                             "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                             "category":  "Персонализация",
                              "panel":  "2",
                              "Order":  "a206_",
                              "Type":  "Toggle",
@@ -2794,7 +2794,7 @@
                          },
     "WPFOOSUbutton":  {
                           "Content":  "Run OO Shutup 10",
-                          "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                          "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                           "panel":  "1",
                           "Order":  "a039_",
                           "Type":  "Button",
@@ -2802,7 +2802,7 @@
                       },
     "WPFchangedns":  {
                          "Content":  "DNS",
-                         "category":  "РІС™В РїС‘РЏ Р СџРЎР‚Р С•Р Т‘Р Р†Р С‘Р Р…РЎС“РЎвЂљРЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘ - Р С›Р РЋР СћР С›Р В Р С›Р вЂ“Р СњР С›",
+                         "category":  "?? Продвинутые настройки - ОСТОРОЖНО",
                          "panel":  "1",
                          "Order":  "a040_",
                          "Type":  "Combobox",
@@ -2811,7 +2811,7 @@
                      },
     "WPFAddUltPerf":  {
                           "Content":  "Add and Activate Ultimate Performance Profile",
-                          "category":  "Р РЋРЎвЂ¦Р ВµР СРЎвЂ№ Р С—Р С‘РЎвЂљР В°Р Р…Р С‘РЎРЏ",
+                          "category":  "Схемы питания",
                           "panel":  "2",
                           "Order":  "a080_",
                           "Type":  "Button",
@@ -2820,7 +2820,7 @@
                       },
     "WPFRemoveUltPerf":  {
                              "Content":  "Remove Ultimate Performance Profile",
-                             "category":  "Р РЋРЎвЂ¦Р ВµР СРЎвЂ№ Р С—Р С‘РЎвЂљР В°Р Р…Р С‘РЎРЏ",
+                             "category":  "Схемы питания",
                              "panel":  "2",
                              "Order":  "a081_",
                              "Type":  "Button",
@@ -2830,7 +2830,7 @@
     "WPFTweaksDisableExplorerAutoDiscovery":  {
                                                   "Content":  "Disable Explorer Automatic Folder Discovery",
                                                   "Description":  "Windows Explorer automatically tries to guess the type of the folder based on its contents, slowing down the browsing experience.",
-                                                  "category":  "Р С›РЎРѓР Р…Р С•Р Р†Р Р…РЎвЂ№Р Вµ Р Р…Р В°РЎРѓРЎвЂљРЎР‚Р С•Р в„–Р С”Р С‘",
+                                                  "category":  "Основные настройки",
                                                   "panel":  "1",
                                                   "Order":  "a005_",
                                                   "InvokeScript":  [
@@ -2843,7 +2843,7 @@
     "WPFToggleDisableCrossDeviceResume":  {
                                               "Content":  "Cross-Device Resume",
                                               "Description":  "This tweak controls the Resume function in Windows 11 24H2 and later, which allows you to resume an activity from a mobile device and vice-versa.",
-                                              "category":  "Р СџР ВµРЎР‚РЎРѓР С•Р Р…Р В°Р В»Р С‘Р В·Р В°РЎвЂ Р С‘РЎРЏ",
+                                              "category":  "Персонализация",
                                               "panel":  "2",
                                               "Order":  "a207_",
                                               "Type":  "Toggle",
